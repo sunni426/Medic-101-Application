@@ -1,16 +1,16 @@
 # EC327-FinalProject
 
 - Project Lead
--* Eliott Dinfotan
+- * Eliott Dinfotan
 
 - Spec Lead
--* Sunni Lin
+- * Sunni Lin
 
 - Interface Lead
--* Ismail Sufi
+- * Ismail Sufi
 
 - Tech Lead
--* Aryan Gupta
+- * Aryan Gupta
 
 - Docs Lead
--* Jason Calalang
+- * Jason Calalang
