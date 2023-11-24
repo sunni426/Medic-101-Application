@@ -4,8 +4,7 @@ The main purpose of this application is to provide a simple interface for elderl
 
 The main hub of the app consists of 6 large buttons with the functions: 1) providing basic medical information, 2) a GoogleMap GPS tracker function that highlights nearby hospitals, 3) a symptoms tracker, 4) an emergency call button, 5) a camera to take pictures and document injuries, and 6) a settings function to change the user’s emergency number. 
 
-![alt text] (https://github.com/sunni426/EC327-FinalProject/blob/main/Medic101_Interface.png)
-
+![alt text](https://github.com/sunni426/EC327-FinalProject/blob/main/Medic101_Interface.png?raw=true)
 # Components 
 ## 1) Symptom Notes Tracker
 This feature functions like a notes application and allows the user to track any symptoms. The motivation behind creating this feature arises from realistic situations where it is not possible to go to the doctor immediately. It is also important to note that for most injuries that are not life threatening, the patient does not go to the doctor immediately or at times the doctor does not attend the patient immediately thus it becomes important to note down 
