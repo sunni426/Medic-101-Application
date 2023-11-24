@@ -22,7 +22,7 @@ This feature, like all settings within apps, allows users to change their person
 # Backend & Frontend; GUI, Processing
 Android Studio was used to develop this application, using Java with SDK 32 and an emulator of Google’s Pixel 2. Android Studio is the official integrated development environment(IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems. Our application is interfaced on an Android mobile device. Since we used android studio, it provided us with a variety of pre-built UI components such as structured layout objects and UI controls that allowed us to build the graphical user interface for our app. We were able to make changes to an existing XML file inorder to control the user interface. We also learnt that Android applications use classes in the Java language to implement various aspects of Graphical User Interface (GUI) functionality. 
 
-EC327 Final Project, Boston University Spring 2022
+### EC327 Final Project, Boston University Spring 2022
 - Project Lead
 - * Eliott Dinfotan
 
